@@ -3,7 +3,7 @@
 ## Table of Content
   - [Objective](#Objective)
   - [Datasource](#Datasource)
-  - [Data Preparation & Analysis](#Data-Preparation-&-Analysis)
+  - [Data Preparation and Analysis](#Data-Preparation-and-Analysis)
   - [Data Visualization](#Data-Visualization)
   - [Insights](#Insights)
   - [Suggestions](#Suggestions)
@@ -20,7 +20,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ![image](https://github.com/user-attachments/assets/0739b82a-65e8-43a1-8892-af438e31288e)
 
-## Data Preparation & Analysis
+## Data Preparation and Analysis
 Utilized Power BI to execute the ETL (Extract, Transform, Load) process, effectively managing data extraction, transformation, and loading operations.
 
 ## Data Visualization
