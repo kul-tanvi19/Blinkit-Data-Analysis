@@ -11,8 +11,6 @@
 
 ## Objective
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI. 
-<br>
-</br>
 - Possible KPIs are :
     - Total Sales
     - Average Sales
@@ -20,5 +18,5 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
     - Average Rating
 
 ## Datasource
-<br></br>
+
 ![image](https://github.com/user-attachments/assets/0739b82a-65e8-43a1-8892-af438e31288e)
